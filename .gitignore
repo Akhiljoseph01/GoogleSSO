@@ -1,0 +1,47 @@
+# ======================
+# Virtual Environment
+# ======================
+venv/
+env/
+.venv/
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ======================
+# Django
+# ======================
+*.sqlite3
+db.sqlite3
+staticfiles/
+media/
+
+# ======================
+# Environment Variables
+# ======================
+.env
+
+# ======================
+# Logs
+# ======================
+*.log
+
+# ======================
+# OS / Editor
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Node (if frontend grows later)
+# ======================
+node_modules/
+dist/
+build/
