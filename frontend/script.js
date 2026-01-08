@@ -1,6 +1,6 @@
 function login() {
   google.accounts.id.initialize({
-    client_id: "YOUR_GOOGLE_CLIENT_ID",
+    client_id: "421779667146-2iphh2quvfivv7v1iqciqu3lrpv18ghu.apps.googleusercontent.com",
     callback: handleResponse
   });
 
